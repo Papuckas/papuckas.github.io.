@@ -1,2 +1,2 @@
-# papuckas.github.io.
+# papuckas.github.io
 Car game 
