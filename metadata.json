@@ -1,0 +1,6 @@
+{
+  "name": "Top Drivers",
+  "description": "Taktická automobilová kartová hra s 3D fyzikálnou simuláciou pretekov, garážou, lineárnym tuningom a režimom Random Race.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
